@@ -10,6 +10,7 @@ public class Demo1
 	{
 		System.out.println("hello");
 		System.out.println("git");
+		System.out.println("Git by cjc1");
 	}
 
 }
